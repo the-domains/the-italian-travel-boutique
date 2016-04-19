@@ -1,30 +1,30 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T22:52:10.753Z'
-dateModified: '2016-04-19T22:51:57.985Z'
+datePublished: '2016-04-19T22:54:48.172Z'
+dateModified: '2016-04-19T22:54:30.007Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-19-extraordinary-experiencesdesigned-just-for-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-extraordinary-experiencesdesigned-just-for-you.md
-published: true
-url: extraordinary-experiencesdesigned-just-for-you/index.html
-_type: Article
+_type: Blurb
 
 ---
-> Extraordinary experiences, designed just for you.
+> 
 
 > Your passion is what drives us. Whether you want to hunt for rare truffles in Alba, play golf in the most exclusive courses in Tuscany or have dinner with a private chef in a castle, we are the people to arrange it.
 > 
