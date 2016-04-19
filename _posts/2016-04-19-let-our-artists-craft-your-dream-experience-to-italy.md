@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-19T22:35:44.278Z'
-dateModified: '2016-04-19T22:35:06.950Z'
+datePublished: '2016-04-19T23:03:03.849Z'
+dateModified: '2016-04-19T22:58:19.264Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-let-our-artists-craft-your-dream-experience-to-italy.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: home-page/index.html
+_type: Article
 
 ---
 > Let our artists craft your dream experience to Italy.
