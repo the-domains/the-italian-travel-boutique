@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Italian Travel Boutique]]></title>
         <description><![CDATA[The Italian Travel Boutique]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-italian-travel-boutique/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:22:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 21:26:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-italian-travel-boutique/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7d6e4d3-4dfe-408d-bad9-23db8a7cab4b.jpg">]]></description>
-            <link>undefinedgame-on-thursday/index.html</link>
+            <link>https://thegrid.ai/the-italian-travel-boutique/game-on-thursday/index.html</link>
             <guid isPermaLink="false">88598e7e-797b-4ac7-bb2d-62d57d8668c3</guid>
-            <pubDate>Tue, 19 Apr 2016 21:22:54 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 21:25:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
