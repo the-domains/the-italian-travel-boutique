@@ -18,8 +18,8 @@ inLanguage: fr
 app_links: []
 isBasedOnUrl: 'http://www.zeitgeist-of-today.com/category/fashion/luxury-life-style'
 title: 'Luxury Items that make you unique!'
-datePublished: '2016-04-19T23:13:24.342Z'
-dateModified: '2016-04-19T23:12:59.054Z'
+datePublished: '2016-04-19T23:14:48.092Z'
+dateModified: '2016-04-19T23:14:15.246Z'
 sourcePath: _posts/2016-04-19-luxury-items-that-make-you-unique.md
 published: true
 inFeed: true
