@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Italian travel boutique]]></title>
-        <description><![CDATA[The Italian travel boutique]]></description>
-        <link>https://thegrid.ai/itb/</link>
+        <title><![CDATA[Travel with style]]></title>
+        <description><![CDATA[Travel with style]]></description>
+        <link>https://thegrid.ai/the-italian-travel-boutique/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 22:55:08 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/itb/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 23:03:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-italian-travel-boutique/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home Page]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/510181f4-fcc5-45cf-b82e-e4edec0d14d8.jpg">]]></description>
+            <link>https://thegrid.ai/the-italian-travel-boutique/home-page/index.html</link>
+            <guid isPermaLink="false">a3a8a8f7-6484-4f6b-b331-3e278c0f7ba6</guid>
+            <pubDate>Tue, 19 Apr 2016 23:03:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab5dbc60-7b2a-4db8-a8a3-6a90966358b8.jpg">]]></description>
-            <link>https://thegrid.ai/itb/61d94cb3-f5cf-42ac-a0c6-4afcb13da5a8/index.html</link>
+            <link>https://thegrid.ai/the-italian-travel-boutique/61d94cb3-f5cf-42ac-a0c6-4afcb13da5a8/index.html</link>
             <guid isPermaLink="false">61d94cb3-f5cf-42ac-a0c6-4afcb13da5a8</guid>
             <pubDate>Tue, 19 Apr 2016 22:11:49 GMT</pubDate>
         </item>
